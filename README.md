@@ -1,5 +1,11 @@
 ### Hello there, I'm Fillipe 👋👽
 
+<p align="center">
+  <img  align="center" src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" height="405" width="720" />
+</p>
+
+
+
 ## I'm a CS Student, Developer-ish, Guitarrist, and a Nerd!
 - 📓 I’m currently working on trying to get my Github used 
 - 🤓 I’m currently studying to be a FullStack Javascript Developer
