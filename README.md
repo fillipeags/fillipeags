@@ -1,7 +1,7 @@
 ### Hello there, I'm Fillipe 👋👽
 
 <p align="center">
-  <img  align="right" src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif"  />
+
 </p>
 
 
