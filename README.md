@@ -57,11 +57,7 @@
 
 ![Fillipe's github stats](https://github-readme-stats.vercel.app/api?username=fillipeags&show_icons=true&theme=dark)
 
-<!--START_SECTION:waka-->
-```text
-Markdown   10 mins         █████████████████████████   100.00 %
-```
-<!--END_SECTION:waka-->
+
 
 
 [instagram]: https://instagram.com/fillipeags
