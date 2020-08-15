@@ -54,11 +54,20 @@
 <br />
 
 ---
-
-![Fillipe's github stats](https://github-readme-stats.vercel.app/api?username=fillipeags&show_icons=true&theme=dark)
-
-
-
+<table>
+  <tr>
+    <td>
+      <a href="https://github-readme-stats.vercel.app/api?username=fillipeags&theme=dracula&show_icons=true">
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=fillipeags&show_icons=true&theme=dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=fillipeags&theme=dracula&hide=html">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fillipeags&layout=compact&theme=dark&hide=html" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 [instagram]: https://instagram.com/fillipeags
 [linkedin]: https://linkedin.com/in/fillipeags
