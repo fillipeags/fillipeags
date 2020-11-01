@@ -4,14 +4,12 @@
   <img  align="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"  width="300" height="280"/>
 </p>
 
-
-
 ## I'm a CS Student, Developer-ish, Guitarrist, and a Nerd!
 - 📓 I’m currently working on trying to get my Github used 
-- 🤓 I’m currently studying to be a FullStack Javascript Developer
+- 🤓 Also studying to become a FullStack Javascript Developer
 - 👯 I’m looking forward to connect with amazing people 
-- 🥅 2020 Goals: Maintain a daily-basis action on github 
-- ⚡ Fun fact: I love to play guitar and watch all kind of tv shows (maybe even too much)
+- 🥅 2020 Goals: Maintain a regular action on github 
+- ⚡ Fun fact: I love to play guitar and watch all kind of tv shows 
 
 ### Connect with me:
 
@@ -38,8 +36,8 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
 <br />
@@ -53,21 +51,14 @@
 <br />
 <br />
 
----
-<table>
-  <tr>
-    <td>
-      <a href="https://github-readme-stats.vercel.app/api?username=fillipeags&theme=dracula&show_icons=true">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=fillipeags&show_icons=true&theme=dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=fillipeags&theme=dracula&hide=html">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fillipeags&layout=compact&theme=dark&hide=html" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github-readme-stats.vercel.app/api?username=fillipeags&theme=dracula&show_icons=true">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=fillipeags&show_icons=true&theme=dark" />
+</a>
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=fillipeags&theme=dracula&hide=html">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fillipeags&layout=compact&theme=dark&hide=html" />
+
+
 
 [instagram]: https://instagram.com/fillipeags
 [linkedin]: https://linkedin.com/in/fillipeags
