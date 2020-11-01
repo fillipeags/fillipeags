@@ -51,14 +51,6 @@
 <br />
 <br />
 
-<a href="https://github-readme-stats.vercel.app/api?username=fillipeags&theme=dracula&show_icons=true">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=fillipeags&show_icons=true&theme=dark" />
-</a>
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=fillipeags&theme=dracula&hide=html">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fillipeags&layout=compact&theme=dark&hide=html" />
-
-
 
 [instagram]: https://instagram.com/fillipeags
 [linkedin]: https://linkedin.com/in/fillipeags
