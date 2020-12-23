@@ -1,7 +1,7 @@
 ### Hello there, I'm Fillipe 👋👽
 
 <p align="center">
-  <img  align="center" src="wallpaper.png"  width="500" />
+  <img  align="center" src="wallpaper.svg"  width="500" />
 </p>
 
 ## I'm a CS Student, Developer-ish, Guitarrist, and a Nerd!
