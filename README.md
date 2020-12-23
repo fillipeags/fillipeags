@@ -31,7 +31,7 @@
 
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-<img align="left" alt="SQL" width="32px" src="https://img.icons8.com/wired/64/000000/database.png" />
+<img align="left" alt="SQL" width="32px" src="https://img.icons8.com/dusk/50/000000/database-restore.png" />
 
 <img align="left" alt="MySQL" width="32px" src="https://img.icons8.com/nolan/64/mysql.png" />
 
