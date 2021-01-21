@@ -1,8 +1,5 @@
 ### Hello there, I'm Fillipe 👋👽
 
-<p align="center">
-  <img  align="center" src="wallpaper.svg"  width="500" />
-</p>
 
 ## I'm a CS Student, Developer-ish, Guitarrist, and a Nerd!
 - 🤓 I'm Currently studying to become a FullStack Javascript Developer
