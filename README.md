@@ -6,6 +6,7 @@
 - 👯 I’m looking forward to connect with amazing people 
 - 🥅 2021 Goals: Maintain a regular action on github 
 - ⚡ Fun fact: I love to play guitar and watch all kind of tv shows 
+- 🧑🏻‍💻 In love with the UI/UX world and how we can make an impact in the world 
 
 ### Connect with me:
 
