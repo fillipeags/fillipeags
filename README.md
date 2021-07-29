@@ -1,12 +1,10 @@
 ### Hello there, I'm Fillipe 👋👽
 
 
-## I'm a CS Student, Developer-ish, Guitarrist, and a Nerd!
-- 🤓 I'm Currently studying to become a FullStack Javascript Developer
-- 👯 I’m looking forward to connect with amazing people 
-- 🥅 2021 Goals: Maintain a regular action on github 
-- ⚡ Fun fact: I love to play guitar and watch all kind of tv shows 
-- 🧑🏻‍💻 In love with the UI/UX world and how we can make an impact in the world 
+## I'm a CS Student, Developer and UI Designer 
+- 🤓 I'm Currently focused on Frontend Development mainly with JS techs such as React
+- 👯 I’m looking forward to connect with amazing people  
+- 🧑🏻‍💻 I'm also in love with the UI/UX world and how we can make an impact in the world 
 
 ### Connect with me:
 
@@ -36,15 +34,6 @@
 <img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png" />
 
 <img align="left" alt="GitHub" width="32px" src="https://img.icons8.com/nolan/64/github.png" />
-
-<br />
-<br />
-
-
-### Interested:
-
-<img align="left" alt="Gatsby" width="32px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="32px" src="https://img.icons8.com/color/48/000000/graphql.png" />
 
 <br />
 <br />
