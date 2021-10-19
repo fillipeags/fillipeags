@@ -38,7 +38,7 @@
 <br />
 <br />
 
-![Snake animation](https://github.com/fillipeags)
+![Snake animation](https://github.com/fillipeags/fillipeags/blob/output/github-contribution-grid-snake.svg)
 
 
 [instagram]: https://instagram.com/fillipeags
