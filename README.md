@@ -38,6 +38,8 @@
 <br />
 <br />
 
+![Snake animation](https://github.com/fillipeags)
+
 
 [instagram]: https://instagram.com/fillipeags
 [linkedin]: https://linkedin.com/in/fillipeags
