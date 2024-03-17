@@ -1,7 +1,8 @@
 ### Hello there, I'm Fillipe 👋👽
 
 
-## I'm a Frontend and Mobile Software Engineer
+## I'm a Software Enginner currently focused on Frontend and Mobile Development
+
 - 👯 I’m looking forward to connect with amazing people  
 - 🧑🏻‍💻 I'm also in love with the UI/UX world and how we can make an impact in the world 
 
